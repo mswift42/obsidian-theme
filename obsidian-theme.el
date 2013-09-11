@@ -19,9 +19,11 @@
 	'(cursor ((t (:background "#626262"))))
         '(show-paren-match-face ((t (:background "#e8e2b7"))))
         '(isearch ((t (:bold t :foreground "#616161" :background "#e2e2e5"))))
-        '(modeline ((t (:bold t :foreground "#626262" :background "#293134"))))
-        '(modeline-inactive ((t (:foreground "#808080" :background "#202020"))))
-        '(modeline-buffer-id ((t (:bold t :foreground "#898989" :background "#293134"))))
+        '(mode-line ((t (:foreground "#808080" :background "#202020" :box nil))))
+        '(mode-line-inactive ((t
+			       (:foreground "#808080" :background "#293134" :box nil))))
+        '(mode-line-buffer-id ((t (:foreground "#898989" :background "#293134"))))
+	
         '(minibuffer-prompt ((t (:bold t :foreground "#708090"))))
         '(default-italic ((t (:italic t))))
 	'(font-lock-comment-face ((t (:foreground "#7d8c93"))))
