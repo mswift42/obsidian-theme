@@ -74,6 +74,7 @@
 	'(gnus-header-from ((t (:foreground "#f0e16a"))))
 	'(gnus-header-name ((t (:foreground "#e0e2e4"))))
 	'(gnus-header-subject ((t (:foreground "#ff8800"))))
+	'(magit-item-highlight ((t (:background "#2f393c"))))
 	'(slime-repl-inputed-output-face ((t (:foreground "#e0e2e4")))))
 
 ;;;###autoload
