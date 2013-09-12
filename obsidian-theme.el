@@ -19,9 +19,9 @@
 	'(cursor ((t (:background "#626262"))))
         '(show-paren-match-face ((t (:background "#e8e2b7"))))
         '(isearch ((t (:bold t :foreground "#616161" :background "#e2e2e5"))))
-        '(mode-line ((t (:foreground "#808080" :background "#202020" :box nil))))
+        '(mode-line ((t (:foreground "#b2b2b2" :background "#293134" :box nil))))
         '(mode-line-inactive ((t
-			       (:foreground "#808080" :background "#293134" :box nil))))
+			       (:foreground "#949494" :background "#293134" :box nil))))
         '(mode-line-buffer-id ((t (:foreground "#898989" :background "#293134"))))
 	
         '(minibuffer-prompt ((t (:bold t :foreground "#708090"))))
