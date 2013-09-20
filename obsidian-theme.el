@@ -75,6 +75,9 @@
 	'(gnus-header-name ((t (:foreground "#e0e2e4"))))
 	'(gnus-header-subject ((t (:foreground "#ff8800"))))
 	'(magit-item-highlight ((t (:background "#2f393c"))))
+	'(mu4e-view-url-number-face ((t (:foreground "#e0e2e4"))))
+	'(mu4e-cited-1-face ((t (:foreground "#7d8c93"))))
+	'(mu4e-cited-7-face ((t (:foreground "#df9f2d"))))
 	'(slime-repl-inputed-output-face ((t (:foreground "#e0e2e4")))))
 
 ;;;###autoload
