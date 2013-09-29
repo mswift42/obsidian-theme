@@ -27,7 +27,7 @@ To install the theme
 **M-x package-install** obsidian-theme
 
 
-To use the obsidian theme when starting emacs:
+To use the obsidian theme when starting emacs add this to your init.el:
 
     (load-theme 'obsidian)
 
