@@ -23,7 +23,8 @@
         '(mode-line-inactive ((t
 			       (:foreground "#949494" :background "#293134" :box nil))))
         '(mode-line-buffer-id ((t (:foreground "#898989" :background "#293134"))))
-	
+
+        
         '(minibuffer-prompt ((t (:bold t :foreground "#708090"))))
         '(default-italic ((t (:italic t))))
 	'(font-lock-comment-face ((t (:foreground "#7d8c93"))))
@@ -78,7 +79,7 @@
 	'(mu4e-view-url-number-face ((t (:foreground "#e0e2e4"))))
 	'(mu4e-cited-1-face ((t (:foreground "#7d8c93"))))
 	'(mu4e-cited-7-face ((t (:foreground "#df9f2d"))))
-        '(trailing-whitespace ((t :foreground nil :background "#34fc51" )))
+        '(trailing-whitespace ((t :foreground nil :background "#3f4c51" )))
 	'(slime-repl-inputed-output-face ((t (:foreground "#e0e2e4")))))
 
 ;;;###autoload
