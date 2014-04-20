@@ -78,6 +78,7 @@
 	'(mu4e-view-url-number-face ((t (:foreground "#e0e2e4"))))
 	'(mu4e-cited-1-face ((t (:foreground "#7d8c93"))))
 	'(mu4e-cited-7-face ((t (:foreground "#df9f2d"))))
+        '(trailing-whitespace ((t :foreground nil :background "#34fc51" )))
 	'(slime-repl-inputed-output-face ((t (:foreground "#e0e2e4")))))
 
 ;;;###autoload
